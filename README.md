@@ -1,5 +1,7 @@
 # Günyap-Grup
-# (CONTINUE !!)The final version of the site has not been published yet.
+The final version of the site has not been published yet.
+Here is my demo: https://test.gunyapgrup.com.tr/
+
 # Electricity Company Website
 This project showcases a website belonging to an electricity company. Unfortunately, we cannot share the code as it is proprietary. However, you can find some screenshots from the website below:
 
