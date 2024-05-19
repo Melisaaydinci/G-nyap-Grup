@@ -9,12 +9,11 @@ This project showcases a website belonging to an electricity company. Unfortunat
 
 ![Homepage](screenshots/home.png)
 ![Services](screenshots/services.png)
-![Contact](screenshots/projects.png)
-![Contact](screenshots/contact.png)
+![Documents](screenshots/documents.png)
+
 
 ## Features
 
-- Homepage: Introduction and basic information about the electricity company.
+- Home page: Introduction and basic information about the electricity company.
 - Services: List and descriptions of the services offered.
-- Projects:List of projects made by company
-- Contact: Contact information and contact form.
+- Documents:List of documents belong to company
