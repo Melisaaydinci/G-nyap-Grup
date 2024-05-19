@@ -7,9 +7,9 @@ This project showcases a website belonging to an electricity company. Unfortunat
 
 ## Screenshots
 
-![Homepage](screenshots/home.png)
-![Services](screenshots/services.png)
-![Documents](screenshots/documents.png)
+![Homepage](home.png)
+![Services](services.png)
+![Documents](documents.png)
 
 
 ## Features
